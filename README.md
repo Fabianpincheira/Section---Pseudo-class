@@ -1,2 +1,2 @@
-# Section---Pseudo-class
+# Section-Pseudo-class
 Tarea N°1
